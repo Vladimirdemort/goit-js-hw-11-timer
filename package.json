@@ -1,0 +1,22 @@
+{
+  "name": "goit-js-hw-11-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladimirdemort/goit-js-hw-11-timer.git"
+  },
+  "author": "Vladimir <feowurd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladimirdemort/goit-js-hw-11-timer/issues"
+  },
+  "homepage": "https://github.com/Vladimirdemort/goit-js-hw-11-timer#readme",
+  "devDependencies": {}
+}
